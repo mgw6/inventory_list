@@ -1,4 +1,11 @@
-//MacGregor Winegard
+//MacGregor Winegard, April 2020
+
+/*
+Update in August 2020:
+Looking at this program 16 months later I can see that this program is clearly messy and inneficient. I think it serves as a great marker of my progress as
+a programmer and student. This was in the middle of lockdown, and I put so much time into this with limited guidance. My professor gave me a ton of freedom and 
+I think this allowed me to learn a lot through self-exploration.
+*/
 import java.util.Scanner;
 import java.util.*;
 import java.util.ArrayList;
